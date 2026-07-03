@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 > PyTorch fundamentals, built from the ground up — tensor mechanics and reverse-mode autodiff, verified against hand-derived gradients notebook by notebook.
@@ -69,5 +68,3 @@ flowchart LR
 | Vector Gradients | `.backward()` on `mean(x²)` across a vector input |
 
 ---
-
-## 📁 Repository Structure
